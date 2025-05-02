@@ -22,7 +22,7 @@ Este proyecto es una API REST construida con **FastAPI** y **Docker** que permit
 ### 1. Clona este repositorio
 
 ```bash
-git clone https://github.com/tuusuario/text-similarity-api.git
+git clone https://github.com/lcarvajal95/text-similarity-api.git
 cd text-similarity-api
 
 # Prueba de /embed
